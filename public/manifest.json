@@ -1,0 +1,15 @@
+{
+    "name": "Kesra App",
+    "short_name": "Kesra",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#006442",
+    "icons": [
+      {
+        "src": "/favicon.ico",
+        "sizes": "32x32",
+        "type": "image/x-icon"
+      }
+    ]
+  }  
